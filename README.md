@@ -18,3 +18,4 @@ POSTGRES_PASSWORD=adminpassword
 POSTGRES_HOST=postgres
 POSTGRES_PORT=5432
 ```
+There is a user already seeded. The username is `TestUser` (capitalization matters), and the password is `testPassword`.
